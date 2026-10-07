@@ -1,0 +1,2 @@
+az inspiracio lelohely
+enter
